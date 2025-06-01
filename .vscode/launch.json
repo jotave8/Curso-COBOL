@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "build-cobol",
+      "type": "shell",
+      "command": "cobc",
+      "args": [
+        "-x",
+        "-g",
+        "-o",
+        "${workspaceFolder}/introduction",
+        "${workspaceFolder}/introduction.cbl"
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. INTRODUCTION.
+
+       DATA DIVISION.
+       WORKING-STORAGE SECTION.
+
+       PROCEDURE DIVISION.
+       MAIN-PROCEDURE.
+           DISPLAY "Hello World".
+           STOP RUN.
+           
+       END PROGRAM INTRODUCTION.

@@ -1,3 +1,3 @@
 # Curso-COBOL
 
-Repositório destinado a armazenar as atividades feitas por mim durante o Curso de COBOL da Udemy
+Repositório destinado a armazenar as atividades feitas por mim durante o meu aprendizado no Curso de COBOL da Alura

@@ -8,5 +8,5 @@
        MAIN-PROCEDURE.
            DISPLAY "Hello World".
            STOP RUN.
-           
+
        END PROGRAM INTRODUCTION.
